@@ -2,7 +2,7 @@ name: Scheduled Jobs
 
 on:
  schedule:
-    - cron: '* * * * *'
+    - cron: '37 15 * * *'
 
 jobs:
  test_schedule:
