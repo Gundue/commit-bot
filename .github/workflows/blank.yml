@@ -27,4 +27,3 @@ jobs:
          git config --global user.name "github-actions"
          git commit -am "Inject Date"
          git push
- 
